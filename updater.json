@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Versão 0.1.3 do PlaceUp Flow.",
-  "pub_date": "2026-07-26T21:14:00Z",
+  "version": "0.1.0",
+  "notes": "Versão 0.1.0 do PlaceUp Flow.",
+  "pub_date": "2026-10-14T17:12:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTRVS0U5SUdPL1FSaGlMU3BubUNYYU84REVwYmVEVEVoQkpnejB2bEZYU0J3N1RyWVBSdkZPcWZXTWltdS9DdTQ0OE55Y3JSTUJvei9jMmsxMnhkMk5wS3VKcDlacHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTAwMjIzCWZpbGU6cGxhY2V1cC1wYXlfMC4xLjNfeDY0X3B0LUJSLm1zaQpRbWxOQ1N4VnpGUW13VWFueWRIZGxtNHlTNHZFbENqNUlYalUxMnlXRnRjc1k1L3ZJM1RkbG1JdjB1d2J1dDlBZSs4U1VjZTdyTUlCZmlXY2RyVTlBZz09Cg==",
-      "url": "https://github.com/igorprandini/placeup-flow-releases/releases/download/v0.1.3/placeup-pay_0.1.3_x64_pt-BR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTRVS0U5SUdPL1FQUHI3ampFcGtqOVZtdzdwc09VRmt4anJBOHJwa0NNVzR1cHB3R1JFK3lNN0Z5UEJGMnB4U1BMa1phSjR5NXNKQzlkQUFJaDYxZ01zdjR3NW5BeFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDAxNTAzCWZpbGU6cGxhY2V1cC1mbG93XzAuMS4wX3g2NF9wdC1CUi5tc2kKeTlOeXRLUWZRMHIrL1hrMmJNK05VU2dhQi9JSHhiSVNtSVdUNStia010bXlpci9pbXlBTS9JWXNJZXZrKzdUMUk0WkNYV0ZiMlBDZDZGWW1MVkFYQ2c9PQo=",
+      "url": "https://github.com/igorprandini/placeup-flow-releases/releases/download/v0.1.0/placeup-flow_0.1.0_x64_pt-BR.msi"
     }
   }
 }
